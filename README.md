@@ -50,7 +50,7 @@ Below are the actual AWS resources created using Terraform:
 
 
 ### Terraform Apply Output
-(<img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/e3580bd6-d859-4b21-a04f-ccfe5404d696" />
+<img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/e3580bd6-d859-4b21-a04f-ccfe5404d696" />
 
 
 ## Project Structure

@@ -38,19 +38,19 @@ In this project, I implemented the following:
 Below are the actual AWS resources created using Terraform:
 
 ### EC2 Instance
-![EC2 Instance]<img width="1612" height="487" alt="Screenshot 2026-05-11 121550" src="https://github.com/user-attachments/assets/432d940c-1b41-4ce1-a79a-3270019818a5" />
+<img width="1612" height="487" alt="Screenshot 2026-05-11 121550" src="https://github.com/user-attachments/assets/432d940c-1b41-4ce1-a79a-3270019818a5" />
 
 
 ### S3 Bucket
-![S3 Bucket]<img width="1062" height="520" alt="Screenshot 2026-05-11 121536" src="https://github.com/user-attachments/assets/5aa6a034-6824-48af-af8d-9e1a3d29cf35" />
+<img width="1062" height="520" alt="Screenshot 2026-05-11 121536" src="https://github.com/user-attachments/assets/5aa6a034-6824-48af-af8d-9e1a3d29cf35" />
 
 
 ### DynamoDB Table
-![DynamoDB Table]<img width="1915" height="825" alt="Screenshot 2026-05-11 121629" src="https://github.com/user-attachments/assets/d4a68279-3f3d-4899-bbfc-b76fb43d09e6" />
+<img width="1915" height="825" alt="Screenshot 2026-05-11 121629" src="https://github.com/user-attachments/assets/d4a68279-3f3d-4899-bbfc-b76fb43d09e6" />
 
 
 ### Terraform Apply Output
-![Terraform Output](<img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/e3580bd6-d859-4b21-a04f-ccfe5404d696" />
+(<img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/e3580bd6-d859-4b21-a04f-ccfe5404d696" />
 
 
 ## Project Structure

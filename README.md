@@ -31,8 +31,6 @@ In this project, I implemented the following:
 
 ---
 
----
-
 ## 📸 Infrastructure Screenshots
 
 Below are the actual AWS resources created using Terraform:
